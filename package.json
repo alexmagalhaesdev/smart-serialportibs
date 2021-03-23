@@ -1,5 +1,5 @@
 {
-  "name": "@smart/serialportibs",
+  "name": "@ibs-tecnologia/smart_serialportibs",
   "version": "0.0.1",
   "description": "lib para efetuar conexão serial",
   "main": "index.js",
